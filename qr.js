@@ -71,16 +71,13 @@ router.get('/', async (req, res) => {
                     const randomText = generateRandomText();
                     try {
                         const base64Session = Buffer.from(data.toString()).toString('base64');
-                        let md = "ANJU-XPRO~" + base64Session;
+                        let md = "MC ERROR=" + base64Session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         
                         let cap = `
 🔐 *𝙳𝙾 𝙽𝙾𝚃 �𝚂𝙷𝙰𝚁𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙳𝙴 𝚆𝙸𝚃𝙷 �𝙽𝚈𝙾𝙽𝙴!!*
 
-Use this code to create your own *𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝚇𝙿𝚁𝙾* WhatsApp User Bot. 🤖
-
-📂 *WEBSITE:*  
-👉 https://xpro-botz-ofc.vercel.app/
+Use this code to create your own *MC ERROR MD* WhatsApp User Bot. 🤖
 
 🛠️ *To add your SESSION_ID:*  
 1. Open the \`session.js\` file in the repo.  
@@ -98,8 +95,8 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
+                                title: "MC ERROR XPRO",
+                                thumbnailUrl: "https://raw.githubusercontent.com/mcerror1-20/chat-gpt-pair/refs/heads/main/ChatGPT%20Image%20Dec%2024%2C%202025%2C%2007_24_37%20AM.png",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
@@ -112,10 +109,7 @@ module.exports = {
                        let cap = `
 🔐 *𝙳𝙾 𝙽𝙾𝚃 𝚂𝙷𝙰𝚁𝙴 �𝚃𝙷𝙸𝚂 𝙲𝙾𝙳𝙴 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈𝙾𝙽𝙴!!*
 
-Use this code to create your own *𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝚇𝙿𝚁𝙾* WhatsApp User Bot. 🤖
-
-📂 *WEBSITE:*  
-👉 https://xpro-botz-ofc.vercel.app/
+Use this code to create your own *MC ERROR MD* WhatsApp User Bot. 🤖
 
 🛠️ *To add your SESSION_ID:*  
 1. Open the \`session.js\` file in the repo.  
@@ -133,8 +127,8 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
+                                title: "MC ERROR MD",
+                                thumbnailUrl: "https://raw.githubusercontent.com/mcerror1-20/chat-gpt-pair/refs/heads/main/ChatGPT%20Image%20Dec%2024%2C%202025%2C%2007_24_37%20AM.png",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
