@@ -8,6 +8,7 @@
       "stop": "pm2 stop pair-main",
      "restart": "pm2 restart pair-main"
     },
+    
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",              
     "@adiwajshing/keyed-db": "^0.2.4",
