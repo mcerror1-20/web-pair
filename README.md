@@ -11,13 +11,13 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=⚡+FAST+FAST+PERFORMANCE;🔥+RED+EDITION+V6;🛡️+MILITARY+GRADE+SECURITY;✨+THE+NEXT-GEN+WHATSAPP+BOT&gradient=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=FF0000,FFFFFF,FF4500&center=true&vCenter=true&width=900&height=70&lines=⚡+FAST+FAST+PERFORMANCE;🔥+MC+ERROR+V1;🛡️+MILITARY+GRADE+SECURITY;✨+THE+NEXT-GEN+WHATSAPP+BOT&gradient=true" alt="Typing SVG" />
 </a>
 
 <br>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Version-V6.0.0-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=8B0000">
+  <img src="https://img.shields.io/badge/Version-V1.0.0-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=8B0000">
   <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=red&labelColor=333333">
   <img src="https://img.shields.io/badge/Node.js-20+-FF0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000">
   <img src="https://img.shields.io/badge/Status-ACTIVE-FFD700?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000">
@@ -75,19 +75,19 @@
 
 <br><br>
 
-<h2 align="center" style="color: #FF0000;">🔥 Deploy Now 🔥</h2>
+<h2 align="center" style="color: #FF0000;">🔥 MC ERROR Deploy Now 🔥</h2>
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/nbbb15092/abc" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20DEPLOY%20ON-HEROKU-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Deploy to Heroku">
+    <img src="https://img.shields.io/badge/🚀%20MC%20ERROR%20DEPLOY%20ON-HEROKU-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Deploy to Heroku">
   </a>
   <br><br>
   <a href="https://railway.app?referralCode=queen-elisa" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20DEPLOY%20ON-RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&height=60" alt="Deploy to Railway">
+    <img src="https://img.shields.io/badge/⚡%20MC%20ERROR%20DEPLOY%20ON-RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&height=60" alt="Deploy to Railway">
   </a>
   <br><br>
   <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20DEPLOY%20ON-REPLIT-FF4500?style=for-the-badge&logo=replit&logoColor=white&height=60" alt="Deploy to Replit">
+    <img src="https://img.shields.io/badge/💻%20MC%20ERROR%20DEPLOY%20ON-REPLIT-FF4500?style=for-the-badge&logo=replit&logoColor=white&height=60" alt="Deploy to Replit">
   </a>
 </div>
 
