@@ -96,7 +96,7 @@ module.exports = {
                         contextInfo: {
                             externalAdReply: {
                                 title: "MC ERROR MD",
-                                thumbnailUrl: "https://raw.githubusercontent.com/mcerror1-20/chat-gpt-pair/refs/heads/main/ChatGPT%20Image%20Dec%2024%2C%202025%2C%2007_24_37%20AM.png",
+                                thumbnailUrl: "https://files.catbox.moe/eshu67.png",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
@@ -128,7 +128,7 @@ module.exports = {
                         contextInfo: {
                             externalAdReply: {
                                 title: "MC ERROR MD",
-                                thumbnailUrl: "https://raw.githubusercontent.com/mcerror1-20/chat-gpt-pair/refs/heads/main/ChatGPT%20Image%20Dec%2024%2C%202025%2C%2007_24_37%20AM.png",
+                                thumbnailUrl: "https://files.catbox.moe/eshu67.png",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
