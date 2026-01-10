@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MC%20ERROR%20MD&fontColor=FF0000&fontSize=70&rotate=0&desc=A%20Next%20Gen%20Whatsapp%20Bot&descAlign=79&descAlignY=65&descSize=0" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=220&section=header&text=MC%20ERROR%20MD%20V1&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 15px;"/>
 
 <br><br>
 
